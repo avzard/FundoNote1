@@ -58,5 +58,27 @@ namespace FundoNote.Controllers
                 throw;
             }
         }
+        [HttpPost]
+        [Route("ForgetPassword")]
+        public ActionResult ForgetPassword(string Email)
+        {
+            try
+            {
+                var result = userBL.ForgetPassword(Email);
+                if (result != null)
+                {
+                    return Ok(new { success = true, message = "Reset Link sent Successfull", data = result });
+                }
+                else
+                {
+                    return BadRequest(new { success = false, message = "Reset Link sending Failed" });
+                }
+            }
+            catch (System.Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }

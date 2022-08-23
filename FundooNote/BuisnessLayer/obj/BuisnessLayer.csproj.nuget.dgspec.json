@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {}
+    "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {}
   },
   "projects": {
-    "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {
+    "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj",
+        "projectUniqueName": "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj",
         "projectName": "BuisnessLayer",
-        "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj",
+        "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\obj\\",
+        "outputPath": "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj"
+              "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\CommonLayer.csproj": {
+    "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\CommonLayer.csproj",
+        "projectUniqueName": "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj",
         "projectName": "CommonLayer",
-        "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\CommonLayer.csproj",
+        "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\obj\\",
+        "outputPath": "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -117,6 +117,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Experimental.System.Messaging": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.22.0, )"
@@ -146,14 +150,14 @@
         }
       }
     },
-    "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\CFP\\FundooNote\\FundooNote\\RepositoryLayer\\obj\\",
+        "outputPath": "E:\\CFP\\FundoNote\\FundooNote\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -174,8 +178,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\CommonLayer.csproj": {
-                "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\CommonLayer\\CommonLayer.csproj"
+              "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj": {
+                "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj"
               }
             }
           }
