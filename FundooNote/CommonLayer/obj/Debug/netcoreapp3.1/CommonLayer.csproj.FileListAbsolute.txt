@@ -8,3 +8,13 @@ E:\CFP\FundooNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.Ass
 E:\CFP\FundooNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
 E:\CFP\FundooNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
 E:\CFP\FundooNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\CFP\FundoNote\FundooNote\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.deps.json
+E:\CFP\FundoNote\FundooNote\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+E:\CFP\FundoNote\FundooNote\CommonLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.AssemblyReference.cache
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfoInputs.cache
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.AssemblyInfo.cs
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.csproj.CoreCompileInputs.cache
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.dll
+E:\CFP\FundoNote\FundooNote\CommonLayer\obj\Debug\netcoreapp3.1\CommonLayer.pdb

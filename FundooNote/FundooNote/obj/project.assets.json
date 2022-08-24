@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Experimental.System.Messaging/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Experimental.System.Messaging.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.0": {
         "type": "package",
         "dependencies": {
@@ -1861,6 +1874,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "Experimental.System.Messaging": "1.1.0",
           "Microsoft.IdentityModel.Tokens": "6.22.0",
           "System.IdentityModel.Tokens.Jwt": "6.22.0"
         },
@@ -1892,6 +1906,20 @@
     }
   },
   "libraries": {
+    "Experimental.System.Messaging/1.1.0": {
+      "sha512": "vub7Mtt2WFdFKTZKECVuZx6feP5kUpS9EfVy+Yu4GDfdlMwivRdX4TbdkDYS2lKqCjqzUbnxTbJei1IOqC+CnA==",
+      "type": "package",
+      "path": "experimental.system.messaging/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "experimental.system.messaging.1.1.0.nupkg.sha512",
+        "experimental.system.messaging.nuspec",
+        "lib/netstandard2.0/Experimental.System.Messaging.dll",
+        "lib/netstandard2.0/Experimental.System.Messaging.xml"
+      ]
+    },
     "Microsoft.AspNetCore.Authentication.JwtBearer/3.1.0": {
       "sha512": "Ui/tHIXkUa2daOeHKoHSRE8r0U/i9ar0wAeeUPt3ILidsrXVcq4A7wX9g6AJjVBW6Va0Elw1/JNtyrk+wz5pSg==",
       "type": "package",
@@ -6491,11 +6519,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CFP\\FundooNote\\FundooNote\\FundooNote\\FundooNote.csproj",
+      "projectUniqueName": "E:\\CFP\\FundoNote\\FundooNote\\FundooNote\\FundooNote.csproj",
       "projectName": "FundooNote",
-      "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\FundooNote\\FundooNote.csproj",
+      "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\FundooNote\\FundooNote.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\CFP\\FundooNote\\FundooNote\\FundooNote\\obj\\",
+      "outputPath": "E:\\CFP\\FundoNote\\FundooNote\\FundooNote\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6516,8 +6544,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {
-              "projectPath": "E:\\CFP\\FundooNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj"
+            "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj": {
+              "projectPath": "E:\\CFP\\FundoNote\\FundooNote\\BuisnessLayer\\BuisnessLayer.csproj"
             }
           }
         }
