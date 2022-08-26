@@ -1,17 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "qHMmMYbePqi17ZYNesRCwMc3t8W60QjWS0Z2OeayptiUTkQGkHpxR5AztZN5t73mIi45hFFnFeo7wcykXPSNbA==",
+  "dgSpecHash": "L5OHf1spdGn1Kf3iXhsmhwDkNSBVIo1OpzvdH26H2oXWIqFz6NRS1IltKQU6vhgiqRbALcmVk+818COPhkx10A==",
   "success": true,
   "projectFilePath": "E:\\CFP\\FundoNote\\FundooNote\\CommonLayer\\CommonLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\cloudinarydotnet\\1.19.0\\cloudinarydotnet.1.19.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.22.0\\microsoft.identitymodel.abstractions.6.22.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.22.0\\microsoft.identitymodel.jsonwebtokens.6.22.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identitymodel.logging\\6.22.0\\microsoft.identitymodel.logging.6.22.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.22.0\\microsoft.identitymodel.tokens.6.22.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.22.0\\system.identitymodel.tokens.jwt.6.22.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\admin\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -35,7 +35,7 @@ namespace RepositoryLayer.Migrations
                     b.Property<DateTime>("CreatedTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("Discription")
+                    b.Property<string>("Description")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Image")

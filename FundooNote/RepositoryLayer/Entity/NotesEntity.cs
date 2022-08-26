@@ -12,7 +12,7 @@ namespace RepositoryLayer.Entity
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public long NotesID { get; set; }
         public string Title { get; set; }
-        public string Discription { get; set; }
+        public string Description { get; set; }
         public string Color { get; set; }
         public DateTime Reminder { get; set; }
         public string Image { get; set; }
